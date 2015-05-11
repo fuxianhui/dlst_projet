@@ -2,5 +2,6 @@
 int func(void)
 {
    test merge;
-   return 1;
+   this modify by my
+   return 0;
 }
